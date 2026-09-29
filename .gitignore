@@ -4,6 +4,7 @@ __pycache__/
 .env.*
 node_modules/
 dist/
+dist-server/
 build/
 .DS_Store
 data/raw/*
