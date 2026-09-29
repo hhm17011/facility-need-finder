@@ -1,5 +1,7 @@
 # Architectural Issue Explorer
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fhhm17011%2Ffacility-need-finder)
+
 설계하고 싶은 시설에서 사회·인구·도시·공간의 변화를 탐색하고, 현상 간 관계에서 건축적으로 다룰 수 있는 이슈를 발견하는 프로토타입입니다. 시설 부족이나 신축 필요성을 전제하지 않습니다.
 
 **현재 범위: 지역 근거 엔진 + 이슈 중심 분석·문제 정의.** 이전 Facility Demand Finder / Facility Need Finder의 수요·순위 중심 제품 방향은 deprecated입니다. 저장소·패키지 이름과 기존 데이터 계약은 유지합니다.
