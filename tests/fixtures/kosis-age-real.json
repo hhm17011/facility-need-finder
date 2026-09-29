@@ -1,0 +1,7722 @@
+{
+  "description": "Recorded official KOSIS response; captured for offline regression only, never used by application LIVE runtime.",
+  "retrievedAt": "2026-09-22T14:52:36.800Z",
+  "metadata": {
+    "table": [
+      {
+        "TBL_NM_ENG": "Resident Population in Five-Year Age Groups (2011~)",
+        "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구"
+      }
+    ],
+    "organization": [
+      {
+        "ORG_NM": "국가데이터처",
+        "ORG_NM_ENG": "Ministry of Data and Statistics"
+      }
+    ],
+    "periods": [
+      {
+        "PRD_DE": "200801",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200802",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200803",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200804",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200805",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200806",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200807",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200808",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200809",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200810",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200811",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200812",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200901",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200902",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200903",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200904",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200905",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200906",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200907",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200908",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200909",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200910",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200911",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "200912",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201001",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201002",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201003",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201004",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201005",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201006",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201007",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201008",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201009",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201010",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201011",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201012",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201101",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201102",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201103",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201104",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201105",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201106",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201107",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201108",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201109",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201110",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201111",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201112",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201201",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201202",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201203",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201204",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201205",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201206",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201207",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201208",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201209",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201210",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201211",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201212",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201301",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201302",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201303",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201304",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201305",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201306",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201307",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201308",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201309",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201310",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201311",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201312",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201401",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201402",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201403",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201404",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201405",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201406",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201407",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201408",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201409",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201410",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201411",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201412",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201501",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201502",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201503",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201504",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201505",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201506",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201507",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201508",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201509",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201510",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201511",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201512",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201601",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201602",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201603",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201604",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201605",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201606",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201607",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201608",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201609",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201610",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201611",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201612",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201701",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201702",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201703",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201704",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201705",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201706",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201707",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201708",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201709",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201710",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201711",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201712",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201801",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201802",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201803",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201804",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201805",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201806",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201807",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201808",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201809",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201810",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201811",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201812",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201901",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201902",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201903",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201904",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201905",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201906",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201907",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201908",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201909",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201910",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201911",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "201912",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202001",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202002",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202003",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202004",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202005",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202006",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202007",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202008",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202009",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202010",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202011",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202012",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202101",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202102",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202103",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202104",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202105",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202106",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202107",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202108",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202109",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202110",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202111",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202112",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202201",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202202",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202203",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202204",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202205",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202206",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202207",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202208",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202209",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202210",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202211",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202212",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202301",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202302",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202303",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202304",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202305",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202306",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202307",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202308",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202309",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202310",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202311",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202312",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202401",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202402",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202403",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202404",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202405",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202406",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202407",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202408",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202409",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202410",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202411",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202412",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202501",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202502",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202503",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202504",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202505",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202506",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202507",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202508",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202509",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202510",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202511",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202512",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202601",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202602",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202603",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202604",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202605",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202606",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202607",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "202608",
+        "PRD_SE": "M"
+      },
+      {
+        "PRD_DE": "2008",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2009",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2010",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2011",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2012",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2013",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2014",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2015",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2016",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2017",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2018",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2019",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2020",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2021",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2022",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2023",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2024",
+        "PRD_SE": "Y"
+      },
+      {
+        "PRD_DE": "2025",
+        "PRD_SE": "Y"
+      }
+    ],
+    "rawPeriods": [
+      {
+        "PRD_SE": "월"
+      },
+      {
+        "PRD_DE": "2008.01"
+      },
+      {
+        "PRD_DE": "2008.02"
+      },
+      {
+        "PRD_DE": "2008.03"
+      },
+      {
+        "PRD_DE": "2008.04"
+      },
+      {
+        "PRD_DE": "2008.05"
+      },
+      {
+        "PRD_DE": "2008.06"
+      },
+      {
+        "PRD_DE": "2008.07"
+      },
+      {
+        "PRD_DE": "2008.08"
+      },
+      {
+        "PRD_DE": "2008.09"
+      },
+      {
+        "PRD_DE": "2008.10"
+      },
+      {
+        "PRD_DE": "2008.11"
+      },
+      {
+        "PRD_DE": "2008.12"
+      },
+      {
+        "PRD_DE": "2009.01"
+      },
+      {
+        "PRD_DE": "2009.02"
+      },
+      {
+        "PRD_DE": "2009.03"
+      },
+      {
+        "PRD_DE": "2009.04"
+      },
+      {
+        "PRD_DE": "2009.05"
+      },
+      {
+        "PRD_DE": "2009.06"
+      },
+      {
+        "PRD_DE": "2009.07"
+      },
+      {
+        "PRD_DE": "2009.08"
+      },
+      {
+        "PRD_DE": "2009.09"
+      },
+      {
+        "PRD_DE": "2009.10"
+      },
+      {
+        "PRD_DE": "2009.11"
+      },
+      {
+        "PRD_DE": "2009.12"
+      },
+      {
+        "PRD_DE": "2010.01"
+      },
+      {
+        "PRD_DE": "2010.02"
+      },
+      {
+        "PRD_DE": "2010.03"
+      },
+      {
+        "PRD_DE": "2010.04"
+      },
+      {
+        "PRD_DE": "2010.05"
+      },
+      {
+        "PRD_DE": "2010.06"
+      },
+      {
+        "PRD_DE": "2010.07"
+      },
+      {
+        "PRD_DE": "2010.08"
+      },
+      {
+        "PRD_DE": "2010.09"
+      },
+      {
+        "PRD_DE": "2010.10"
+      },
+      {
+        "PRD_DE": "2010.11"
+      },
+      {
+        "PRD_DE": "2010.12"
+      },
+      {
+        "PRD_DE": "2011.01"
+      },
+      {
+        "PRD_DE": "2011.02"
+      },
+      {
+        "PRD_DE": "2011.03"
+      },
+      {
+        "PRD_DE": "2011.04"
+      },
+      {
+        "PRD_DE": "2011.05"
+      },
+      {
+        "PRD_DE": "2011.06"
+      },
+      {
+        "PRD_DE": "2011.07"
+      },
+      {
+        "PRD_DE": "2011.08"
+      },
+      {
+        "PRD_DE": "2011.09"
+      },
+      {
+        "PRD_DE": "2011.10"
+      },
+      {
+        "PRD_DE": "2011.11"
+      },
+      {
+        "PRD_DE": "2011.12"
+      },
+      {
+        "PRD_DE": "2012.01"
+      },
+      {
+        "PRD_DE": "2012.02"
+      },
+      {
+        "PRD_DE": "2012.03"
+      },
+      {
+        "PRD_DE": "2012.04"
+      },
+      {
+        "PRD_DE": "2012.05"
+      },
+      {
+        "PRD_DE": "2012.06"
+      },
+      {
+        "PRD_DE": "2012.07"
+      },
+      {
+        "PRD_DE": "2012.08"
+      },
+      {
+        "PRD_DE": "2012.09"
+      },
+      {
+        "PRD_DE": "2012.10"
+      },
+      {
+        "PRD_DE": "2012.11"
+      },
+      {
+        "PRD_DE": "2012.12"
+      },
+      {
+        "PRD_DE": "2013.01"
+      },
+      {
+        "PRD_DE": "2013.02"
+      },
+      {
+        "PRD_DE": "2013.03"
+      },
+      {
+        "PRD_DE": "2013.04"
+      },
+      {
+        "PRD_DE": "2013.05"
+      },
+      {
+        "PRD_DE": "2013.06"
+      },
+      {
+        "PRD_DE": "2013.07"
+      },
+      {
+        "PRD_DE": "2013.08"
+      },
+      {
+        "PRD_DE": "2013.09"
+      },
+      {
+        "PRD_DE": "2013.10"
+      },
+      {
+        "PRD_DE": "2013.11"
+      },
+      {
+        "PRD_DE": "2013.12"
+      },
+      {
+        "PRD_DE": "2014.01"
+      },
+      {
+        "PRD_DE": "2014.02"
+      },
+      {
+        "PRD_DE": "2014.03"
+      },
+      {
+        "PRD_DE": "2014.04"
+      },
+      {
+        "PRD_DE": "2014.05"
+      },
+      {
+        "PRD_DE": "2014.06"
+      },
+      {
+        "PRD_DE": "2014.07"
+      },
+      {
+        "PRD_DE": "2014.08"
+      },
+      {
+        "PRD_DE": "2014.09"
+      },
+      {
+        "PRD_DE": "2014.10"
+      },
+      {
+        "PRD_DE": "2014.11"
+      },
+      {
+        "PRD_DE": "2014.12"
+      },
+      {
+        "PRD_DE": "2015.01"
+      },
+      {
+        "PRD_DE": "2015.02"
+      },
+      {
+        "PRD_DE": "2015.03"
+      },
+      {
+        "PRD_DE": "2015.04"
+      },
+      {
+        "PRD_DE": "2015.05"
+      },
+      {
+        "PRD_DE": "2015.06"
+      },
+      {
+        "PRD_DE": "2015.07"
+      },
+      {
+        "PRD_DE": "2015.08"
+      },
+      {
+        "PRD_DE": "2015.09"
+      },
+      {
+        "PRD_DE": "2015.10"
+      },
+      {
+        "PRD_DE": "2015.11"
+      },
+      {
+        "PRD_DE": "2015.12"
+      },
+      {
+        "PRD_DE": "2016.01"
+      },
+      {
+        "PRD_DE": "2016.02"
+      },
+      {
+        "PRD_DE": "2016.03"
+      },
+      {
+        "PRD_DE": "2016.04"
+      },
+      {
+        "PRD_DE": "2016.05"
+      },
+      {
+        "PRD_DE": "2016.06"
+      },
+      {
+        "PRD_DE": "2016.07"
+      },
+      {
+        "PRD_DE": "2016.08"
+      },
+      {
+        "PRD_DE": "2016.09"
+      },
+      {
+        "PRD_DE": "2016.10"
+      },
+      {
+        "PRD_DE": "2016.11"
+      },
+      {
+        "PRD_DE": "2016.12"
+      },
+      {
+        "PRD_DE": "2017.01"
+      },
+      {
+        "PRD_DE": "2017.02"
+      },
+      {
+        "PRD_DE": "2017.03"
+      },
+      {
+        "PRD_DE": "2017.04"
+      },
+      {
+        "PRD_DE": "2017.05"
+      },
+      {
+        "PRD_DE": "2017.06"
+      },
+      {
+        "PRD_DE": "2017.07"
+      },
+      {
+        "PRD_DE": "2017.08"
+      },
+      {
+        "PRD_DE": "2017.09"
+      },
+      {
+        "PRD_DE": "2017.10"
+      },
+      {
+        "PRD_DE": "2017.11"
+      },
+      {
+        "PRD_DE": "2017.12"
+      },
+      {
+        "PRD_DE": "2018.01"
+      },
+      {
+        "PRD_DE": "2018.02"
+      },
+      {
+        "PRD_DE": "2018.03"
+      },
+      {
+        "PRD_DE": "2018.04"
+      },
+      {
+        "PRD_DE": "2018.05"
+      },
+      {
+        "PRD_DE": "2018.06"
+      },
+      {
+        "PRD_DE": "2018.07"
+      },
+      {
+        "PRD_DE": "2018.08"
+      },
+      {
+        "PRD_DE": "2018.09"
+      },
+      {
+        "PRD_DE": "2018.10"
+      },
+      {
+        "PRD_DE": "2018.11"
+      },
+      {
+        "PRD_DE": "2018.12"
+      },
+      {
+        "PRD_DE": "2019.01"
+      },
+      {
+        "PRD_DE": "2019.02"
+      },
+      {
+        "PRD_DE": "2019.03"
+      },
+      {
+        "PRD_DE": "2019.04"
+      },
+      {
+        "PRD_DE": "2019.05"
+      },
+      {
+        "PRD_DE": "2019.06"
+      },
+      {
+        "PRD_DE": "2019.07"
+      },
+      {
+        "PRD_DE": "2019.08"
+      },
+      {
+        "PRD_DE": "2019.09"
+      },
+      {
+        "PRD_DE": "2019.10"
+      },
+      {
+        "PRD_DE": "2019.11"
+      },
+      {
+        "PRD_DE": "2019.12"
+      },
+      {
+        "PRD_DE": "2020.01"
+      },
+      {
+        "PRD_DE": "2020.02"
+      },
+      {
+        "PRD_DE": "2020.03"
+      },
+      {
+        "PRD_DE": "2020.04"
+      },
+      {
+        "PRD_DE": "2020.05"
+      },
+      {
+        "PRD_DE": "2020.06"
+      },
+      {
+        "PRD_DE": "2020.07"
+      },
+      {
+        "PRD_DE": "2020.08"
+      },
+      {
+        "PRD_DE": "2020.09"
+      },
+      {
+        "PRD_DE": "2020.10"
+      },
+      {
+        "PRD_DE": "2020.11"
+      },
+      {
+        "PRD_DE": "2020.12"
+      },
+      {
+        "PRD_DE": "2021.01"
+      },
+      {
+        "PRD_DE": "2021.02"
+      },
+      {
+        "PRD_DE": "2021.03"
+      },
+      {
+        "PRD_DE": "2021.04"
+      },
+      {
+        "PRD_DE": "2021.05"
+      },
+      {
+        "PRD_DE": "2021.06"
+      },
+      {
+        "PRD_DE": "2021.07"
+      },
+      {
+        "PRD_DE": "2021.08"
+      },
+      {
+        "PRD_DE": "2021.09"
+      },
+      {
+        "PRD_DE": "2021.10"
+      },
+      {
+        "PRD_DE": "2021.11"
+      },
+      {
+        "PRD_DE": "2021.12"
+      },
+      {
+        "PRD_DE": "2022.01"
+      },
+      {
+        "PRD_DE": "2022.02"
+      },
+      {
+        "PRD_DE": "2022.03"
+      },
+      {
+        "PRD_DE": "2022.04"
+      },
+      {
+        "PRD_DE": "2022.05"
+      },
+      {
+        "PRD_DE": "2022.06"
+      },
+      {
+        "PRD_DE": "2022.07"
+      },
+      {
+        "PRD_DE": "2022.08"
+      },
+      {
+        "PRD_DE": "2022.09"
+      },
+      {
+        "PRD_DE": "2022.10"
+      },
+      {
+        "PRD_DE": "2022.11"
+      },
+      {
+        "PRD_DE": "2022.12"
+      },
+      {
+        "PRD_DE": "2023.01"
+      },
+      {
+        "PRD_DE": "2023.02"
+      },
+      {
+        "PRD_DE": "2023.03"
+      },
+      {
+        "PRD_DE": "2023.04"
+      },
+      {
+        "PRD_DE": "2023.05"
+      },
+      {
+        "PRD_DE": "2023.06"
+      },
+      {
+        "PRD_DE": "2023.07"
+      },
+      {
+        "PRD_DE": "2023.08"
+      },
+      {
+        "PRD_DE": "2023.09"
+      },
+      {
+        "PRD_DE": "2023.10"
+      },
+      {
+        "PRD_DE": "2023.11"
+      },
+      {
+        "PRD_DE": "2023.12"
+      },
+      {
+        "PRD_DE": "2024.01"
+      },
+      {
+        "PRD_DE": "2024.02"
+      },
+      {
+        "PRD_DE": "2024.03"
+      },
+      {
+        "PRD_DE": "2024.04"
+      },
+      {
+        "PRD_DE": "2024.05"
+      },
+      {
+        "PRD_DE": "2024.06"
+      },
+      {
+        "PRD_DE": "2024.07"
+      },
+      {
+        "PRD_DE": "2024.08"
+      },
+      {
+        "PRD_DE": "2024.09"
+      },
+      {
+        "PRD_DE": "2024.10"
+      },
+      {
+        "PRD_DE": "2024.11"
+      },
+      {
+        "PRD_DE": "2024.12"
+      },
+      {
+        "PRD_DE": "2025.01"
+      },
+      {
+        "PRD_DE": "2025.02"
+      },
+      {
+        "PRD_DE": "2025.03"
+      },
+      {
+        "PRD_DE": "2025.04"
+      },
+      {
+        "PRD_DE": "2025.05"
+      },
+      {
+        "PRD_DE": "2025.06"
+      },
+      {
+        "PRD_DE": "2025.07"
+      },
+      {
+        "PRD_DE": "2025.08"
+      },
+      {
+        "PRD_DE": "2025.09"
+      },
+      {
+        "PRD_DE": "2025.10"
+      },
+      {
+        "PRD_DE": "2025.11"
+      },
+      {
+        "PRD_DE": "2025.12"
+      },
+      {
+        "PRD_DE": "2026.01"
+      },
+      {
+        "PRD_DE": "2026.02"
+      },
+      {
+        "PRD_DE": "2026.03"
+      },
+      {
+        "PRD_DE": "2026.04"
+      },
+      {
+        "PRD_DE": "2026.05"
+      },
+      {
+        "PRD_DE": "2026.06"
+      },
+      {
+        "PRD_DE": "2026.07"
+      },
+      {
+        "PRD_DE": "2026.08"
+      },
+      {
+        "PRD_SE": "년"
+      },
+      {
+        "PRD_DE": "2008"
+      },
+      {
+        "PRD_DE": "2009"
+      },
+      {
+        "PRD_DE": "2010"
+      },
+      {
+        "PRD_DE": "2011"
+      },
+      {
+        "PRD_DE": "2012"
+      },
+      {
+        "PRD_DE": "2013"
+      },
+      {
+        "PRD_DE": "2014"
+      },
+      {
+        "PRD_DE": "2015"
+      },
+      {
+        "PRD_DE": "2016"
+      },
+      {
+        "PRD_DE": "2017"
+      },
+      {
+        "PRD_DE": "2018"
+      },
+      {
+        "PRD_DE": "2019"
+      },
+      {
+        "PRD_DE": "2020"
+      },
+      {
+        "PRD_DE": "2021"
+      },
+      {
+        "PRD_DE": "2022"
+      },
+      {
+        "PRD_DE": "2023"
+      },
+      {
+        "PRD_DE": "2024"
+      },
+      {
+        "PRD_DE": "2025"
+      }
+    ],
+    "classifications": [
+      {
+        "UNIT_ID": "14STD04553",
+        "OBJ_NM_ENG": "Item code list",
+        "UNIT_NM": "명",
+        "ITM_NM_ENG": "Population",
+        "ITM_ID": "T2",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "항목",
+        "UNIT_ENG_NM": "Person",
+        "ITM_NM": "총인구수",
+        "ORG_ID": "101",
+        "OBJ_ID": "ITEM"
+      },
+      {
+        "UNIT_ID": "14STD04553",
+        "OBJ_NM_ENG": "Item code list",
+        "UNIT_NM": "명",
+        "ITM_NM_ENG": "Male",
+        "ITM_ID": "T3",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "항목",
+        "UNIT_ENG_NM": "Person",
+        "ITM_NM": "남자인구수",
+        "ORG_ID": "101",
+        "OBJ_ID": "ITEM"
+      },
+      {
+        "UNIT_ID": "14STD04553",
+        "OBJ_NM_ENG": "Item code list",
+        "UNIT_NM": "명",
+        "ITM_NM_ENG": "Female",
+        "ITM_ID": "T4",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "항목",
+        "UNIT_ENG_NM": "Person",
+        "ITM_NM": "여자인구수",
+        "ORG_ID": "101",
+        "OBJ_ID": "ITEM"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Whole country",
+        "ITM_ID": "00",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "전국",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Seoul",
+        "ITM_ID": "11",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서울특별시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Jongno-gu",
+        "ITM_ID": "11110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "종로구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Jung-gu",
+        "ITM_ID": "11140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Yongsan-gu",
+        "ITM_ID": "11170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "용산구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Seongdong-gu",
+        "ITM_ID": "11200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "성동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Gwangjin-gu",
+        "ITM_ID": "11215",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광진구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Dongdaemun-gu",
+        "ITM_ID": "11230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동대문구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Jungnang-gu",
+        "ITM_ID": "11260",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중랑구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Seongbuk-gu",
+        "ITM_ID": "11290",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "성북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Gangbuk-gu",
+        "ITM_ID": "11305",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Dobong-gu",
+        "ITM_ID": "11320",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "도봉구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Nowon-gu",
+        "ITM_ID": "11350",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "노원구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Eunpyeong-gu",
+        "ITM_ID": "11380",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "은평구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Seodaemun-gu",
+        "ITM_ID": "11410",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서대문구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Mapo-gu",
+        "ITM_ID": "11440",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "마포구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Yangcheon-gu",
+        "ITM_ID": "11470",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "양천구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Gangseo-gu",
+        "ITM_ID": "11500",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Guro-gu",
+        "ITM_ID": "11530",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "구로구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Geumcheon-gu",
+        "ITM_ID": "11545",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "금천구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Yeongdeungpo-gu",
+        "ITM_ID": "11560",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영등포구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Dongjak-gu",
+        "ITM_ID": "11590",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동작구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Gwanak-gu",
+        "ITM_ID": "11620",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "관악구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Seocho-gu",
+        "ITM_ID": "11650",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서초구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Gangnam-gu",
+        "ITM_ID": "11680",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Songpa-gu",
+        "ITM_ID": "11710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "송파구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "11",
+        "ITM_NM_ENG": "Gangdong-gu",
+        "ITM_ID": "11740",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Jeonnam-Gwangju",
+        "ITM_ID": "12",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "전남광주통합특별시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Mokpo-si",
+        "ITM_ID": "12110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "목포시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Yeosu-si",
+        "ITM_ID": "12130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "여수시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Suncheon-si",
+        "ITM_ID": "12150",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "순천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Naju-si",
+        "ITM_ID": "12170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "나주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Gwangyang-si",
+        "ITM_ID": "12190",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광양시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Dong-gu",
+        "ITM_ID": "12210",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Seo-gu",
+        "ITM_ID": "12240",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Nam-gu",
+        "ITM_ID": "12270",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Buk-gu",
+        "ITM_ID": "12300",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Gwangsan-gu",
+        "ITM_ID": "12330",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광산구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Damyang-gun",
+        "ITM_ID": "12710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "담양군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Gokseong-gun",
+        "ITM_ID": "12720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "곡성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Gurye-gun",
+        "ITM_ID": "12730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "구례군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Goheung-gun",
+        "ITM_ID": "12740",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "고흥군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Boseong-gun",
+        "ITM_ID": "12750",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "보성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Hwasun-gun",
+        "ITM_ID": "12760",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "화순군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Jangheung-gun",
+        "ITM_ID": "12770",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "장흥군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Gangjin-gun",
+        "ITM_ID": "12780",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강진군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Haenam-gun",
+        "ITM_ID": "12790",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "해남군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Yeongam-gun",
+        "ITM_ID": "12800",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영암군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Muan-gun",
+        "ITM_ID": "12810",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "무안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Hampyeong-gun",
+        "ITM_ID": "12820",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "함평군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Yeonggwang-gun",
+        "ITM_ID": "12830",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영광군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Jangseong-gun",
+        "ITM_ID": "12840",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "장성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Wando-gun",
+        "ITM_ID": "12850",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "완도군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Jindo-gun",
+        "ITM_ID": "12860",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "진도군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "12",
+        "ITM_NM_ENG": "Sinan-gun",
+        "ITM_ID": "12870",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "신안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Busan",
+        "ITM_ID": "26",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "부산광역시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Jung-gu",
+        "ITM_ID": "26110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Seo-gu",
+        "ITM_ID": "26140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Dong-gu",
+        "ITM_ID": "26170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Yeongdo-gu",
+        "ITM_ID": "26200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영도구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Busanjin-gu",
+        "ITM_ID": "26230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "부산진구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Dongnae-gu",
+        "ITM_ID": "26260",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동래구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Nam-gu",
+        "ITM_ID": "26290",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Buk-gu",
+        "ITM_ID": "26320",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Haeundae-gu",
+        "ITM_ID": "26350",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "해운대구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Saha-gu",
+        "ITM_ID": "26380",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "사하구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Geumjeong-gu",
+        "ITM_ID": "26410",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "금정구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Gangseo-gu",
+        "ITM_ID": "26440",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Yeonje-gu",
+        "ITM_ID": "26470",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "연제구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Suyeong-gu",
+        "ITM_ID": "26500",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "수영구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Sasang-gu",
+        "ITM_ID": "26530",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "사상구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "26",
+        "ITM_NM_ENG": "Gijang-gun",
+        "ITM_ID": "26710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "기장군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Daegu",
+        "ITM_ID": "27",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "대구광역시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Jung-gu",
+        "ITM_ID": "27110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Dong-gu",
+        "ITM_ID": "27140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Seo-gu",
+        "ITM_ID": "27170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Nam-gu",
+        "ITM_ID": "27200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Buk-gu",
+        "ITM_ID": "27230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Suseong-gu",
+        "ITM_ID": "27260",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "수성구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Dalseo-gu",
+        "ITM_ID": "27290",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "달서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Dalseong-gun",
+        "ITM_ID": "27710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "달성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "27",
+        "ITM_NM_ENG": "Gunwi-gun",
+        "ITM_ID": "27720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "군위군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Incheon",
+        "ITM_ID": "28",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "인천광역시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Jung-gu",
+        "ITM_ID": "28110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Jung-gu youngjong branch office",
+        "ITM_ID": "28114",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구영종출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Jung-gu yongyu branch office",
+        "ITM_ID": "28118",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구용유출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Jemulpo-gu",
+        "ITM_ID": "28125",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "제물포구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Dong-gu",
+        "ITM_ID": "28140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "yeongjong-gu",
+        "ITM_ID": "28155",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영종구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Nam-gu",
+        "ITM_ID": "28170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Michuhol-gu",
+        "ITM_ID": "28177",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "미추홀구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Yeonsu-gu",
+        "ITM_ID": "28185",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "연수구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Namdong-gu",
+        "ITM_ID": "28200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Bupyeong-gu",
+        "ITM_ID": "28237",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "부평구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Gyeyang-gu",
+        "ITM_ID": "28245",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "계양구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Seo-gu",
+        "ITM_ID": "28260",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Seo-gu geomdan branch office",
+        "ITM_ID": "28265",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서구검단출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Seohae-gu",
+        "ITM_ID": "28275",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서해구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Geomdan-gu",
+        "ITM_ID": "28290",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "검단구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Ganghwa-gun",
+        "ITM_ID": "28710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강화군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "28",
+        "ITM_NM_ENG": "Ongjin-gun",
+        "ITM_ID": "28720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "옹진군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Gwangju",
+        "ITM_ID": "29",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광주광역시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "29",
+        "ITM_NM_ENG": "Dong-gu",
+        "ITM_ID": "29110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "29",
+        "ITM_NM_ENG": "Seo-gu",
+        "ITM_ID": "29140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "29",
+        "ITM_NM_ENG": "Nam-gu",
+        "ITM_ID": "29155",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "29",
+        "ITM_NM_ENG": "Buk-gu",
+        "ITM_ID": "29170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "29",
+        "ITM_NM_ENG": "Gwangsan-gu",
+        "ITM_ID": "29200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광산구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Daejeon",
+        "ITM_ID": "30",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "대전광역시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "30",
+        "ITM_NM_ENG": "Dong-gu",
+        "ITM_ID": "30110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "30",
+        "ITM_NM_ENG": "Jung-gu",
+        "ITM_ID": "30140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "30",
+        "ITM_NM_ENG": "Seo-gu",
+        "ITM_ID": "30170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "30",
+        "ITM_NM_ENG": "Yuseong-gu",
+        "ITM_ID": "30200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "유성구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "30",
+        "ITM_NM_ENG": "Daedeok-gu",
+        "ITM_ID": "30230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "대덕구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Ulsan",
+        "ITM_ID": "31",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "울산광역시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "31",
+        "ITM_NM_ENG": "Jung-gu",
+        "ITM_ID": "31110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "31",
+        "ITM_NM_ENG": "Nam-gu",
+        "ITM_ID": "31140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "31",
+        "ITM_NM_ENG": "Dong-gu",
+        "ITM_ID": "31170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "31",
+        "ITM_NM_ENG": "Buk-gu",
+        "ITM_ID": "31200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "31",
+        "ITM_NM_ENG": "Ulju-gun",
+        "ITM_ID": "31710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "울주군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "sejong",
+        "ITM_ID": "36",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "세종특별자치시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "36",
+        "ITM_NM_ENG": "sejong-si",
+        "ITM_ID": "36110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "세종특별자치시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Gyeonggi-do",
+        "ITM_ID": "41",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "경기도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Bukbu branch office",
+        "ITM_ID": "41105",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "북부출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Suwon-si",
+        "ITM_ID": "41110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "수원시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Jangan-gu",
+        "ITM_ID": "41111",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "장안구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Gwonseon-gu",
+        "ITM_ID": "41113",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "권선구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Paldal-gu",
+        "ITM_ID": "41115",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "팔달구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Yeongtong-gu",
+        "ITM_ID": "41117",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영통구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Seongnam-si",
+        "ITM_ID": "41130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "성남시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Sujeong-gu",
+        "ITM_ID": "41131",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "수정구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Jungwon-gu",
+        "ITM_ID": "41133",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "중원구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Bundang-gu",
+        "ITM_ID": "41135",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "분당구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Uijeongbu-si",
+        "ITM_ID": "41150",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "의정부시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Anyang-si",
+        "ITM_ID": "41170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "안양시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Manan-gu",
+        "ITM_ID": "41171",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "만안구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Dongan-gu",
+        "ITM_ID": "41173",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동안구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Bucheon-si",
+        "ITM_ID": "41190",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "부천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Wonmi-gu",
+        "ITM_ID": "41192",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "원미구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Sosa-gu",
+        "ITM_ID": "41194",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "소사구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Wonmi-gu",
+        "ITM_ID": "41195",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "원미구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Ojeong-gu",
+        "ITM_ID": "41196",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "오정구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Sosa-gu",
+        "ITM_ID": "41197",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "소사구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Ojeong-gu",
+        "ITM_ID": "41199",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "오정구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Gwangmyeong-si",
+        "ITM_ID": "41210",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광명시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Pyeongtaek-si",
+        "ITM_ID": "41220",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "평택시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Songtan branch office",
+        "ITM_ID": "41222",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "송탄출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Anjung branch office",
+        "ITM_ID": "41224",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "안중출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Dongducheon-si",
+        "ITM_ID": "41250",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동두천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Ansan-si",
+        "ITM_ID": "41270",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "안산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Sangnok-gu",
+        "ITM_ID": "41271",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "상록구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Danwon-gu",
+        "ITM_ID": "41273",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "단원구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Goyang-si",
+        "ITM_ID": "41280",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "고양시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Deogyang-gu",
+        "ITM_ID": "41281",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "덕양구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Ilsandong-gu",
+        "ITM_ID": "41285",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "일산동구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Ilsanseo-gu",
+        "ITM_ID": "41287",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "일산서구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Gwacheon-si",
+        "ITM_ID": "41290",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "과천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Guri-si",
+        "ITM_ID": "41310",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "구리시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Namyangju-si",
+        "ITM_ID": "41360",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남양주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Pungyang branch office",
+        "ITM_ID": "41362",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "풍양출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Osan-si",
+        "ITM_ID": "41370",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "오산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Siheung-si",
+        "ITM_ID": "41390",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "시흥시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Gunpo-si",
+        "ITM_ID": "41410",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "군포시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Uiwang-si",
+        "ITM_ID": "41430",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "의왕시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hanam-si",
+        "ITM_ID": "41450",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "하남시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Yongin-si",
+        "ITM_ID": "41460",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "용인시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Cheoin-gu",
+        "ITM_ID": "41461",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "처인구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Giheung-gu",
+        "ITM_ID": "41463",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "기흥구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Suji-gu",
+        "ITM_ID": "41465",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "수지구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Paju-si",
+        "ITM_ID": "41480",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "파주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Icheon-si",
+        "ITM_ID": "41500",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "이천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Anseong-si",
+        "ITM_ID": "41550",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "안성시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Gimpo-si",
+        "ITM_ID": "41570",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "김포시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hwaseong-si",
+        "ITM_ID": "41590",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "화성시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hwaseong-si Manse-gu",
+        "ITM_ID": "41591",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "만세구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hwaseong-si Hyohaeng-gu",
+        "ITM_ID": "41593",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "효행구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hwaseong-si Byeongjeom-gu",
+        "ITM_ID": "41595",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "병점구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hwaseong-si Dongtan-gu",
+        "ITM_ID": "41597",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동탄구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hwaseong-si dongbu branch office",
+        "ITM_ID": "41592",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "화성시동부출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Hwaseong-si dongtan branch office ",
+        "ITM_ID": "41594",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "화성시동탄출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Gwangju-si",
+        "ITM_ID": "41610",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Yangju-si",
+        "ITM_ID": "41630",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "양주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Pocheon-si",
+        "ITM_ID": "41650",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "포천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Yeoju-si",
+        "ITM_ID": "41670",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "여주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Yeoju-gun",
+        "ITM_ID": "41730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "여주군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Yeoncheon-gun",
+        "ITM_ID": "41800",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "연천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Gapyeong-gun",
+        "ITM_ID": "41820",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "가평군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "41",
+        "ITM_NM_ENG": "Yangpyeong-gun",
+        "ITM_ID": "41830",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "양평군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Gangwon-do",
+        "ITM_ID": "51",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강원특별자치도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Donghae branch office",
+        "ITM_ID": "51105",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동해출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Chuncheon-si",
+        "ITM_ID": "51110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "춘천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Wonju-si",
+        "ITM_ID": "51130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "원주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Gangneung-si",
+        "ITM_ID": "51150",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강릉시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Donghae-si",
+        "ITM_ID": "51170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동해시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Taebaek-si",
+        "ITM_ID": "51190",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "태백시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Sokcho-si",
+        "ITM_ID": "51210",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "속초시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Samcheok-si",
+        "ITM_ID": "51230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "삼척시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Hongcheon-gun",
+        "ITM_ID": "51720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "홍천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Hoengseong-gun",
+        "ITM_ID": "51730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "횡성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Yeongwol-gun",
+        "ITM_ID": "51750",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영월군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Pyeongchang-gun",
+        "ITM_ID": "51760",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "평창군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Jeongseon-gun",
+        "ITM_ID": "51770",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "정선군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Cheorwon-gun",
+        "ITM_ID": "51780",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "철원군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Hwacheon-gun",
+        "ITM_ID": "51790",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "화천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Yanggu-gun",
+        "ITM_ID": "51800",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "양구군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Inje-gun",
+        "ITM_ID": "51810",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "인제군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Goseong-gun",
+        "ITM_ID": "51820",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "고성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "51",
+        "ITM_NM_ENG": "Yangyang-gun",
+        "ITM_ID": "51830",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "양양군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Chungcheongbuk-do",
+        "ITM_ID": "43",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "충청북도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Cheongju-si",
+        "ITM_ID": "43110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "청주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Sangdang-gu",
+        "ITM_ID": "43111",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "상당구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Seowon-gu",
+        "ITM_ID": "43112",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서원구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Heungdeok-gu",
+        "ITM_ID": "43113",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "흥덕구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Cheongwon-gu",
+        "ITM_ID": "43114",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "청원구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Chungju-si",
+        "ITM_ID": "43130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "충주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Jecheon-si",
+        "ITM_ID": "43150",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "제천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Cheongwon-gun",
+        "ITM_ID": "43710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "청원군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Boeun-gun",
+        "ITM_ID": "43720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "보은군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Okcheon-gun",
+        "ITM_ID": "43730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "옥천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Yeongdong-gun",
+        "ITM_ID": "43740",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영동군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Jeungpyeong-gun",
+        "ITM_ID": "43745",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "증평군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Jincheon-gun",
+        "ITM_ID": "43750",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "진천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Goesan-gun",
+        "ITM_ID": "43760",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "괴산군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Eumseong-gun",
+        "ITM_ID": "43770",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "음성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "43",
+        "ITM_NM_ENG": "Danyang-gun",
+        "ITM_ID": "43800",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "단양군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Chungcheongnam-do",
+        "ITM_ID": "44",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "충청남도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Cheonan-si",
+        "ITM_ID": "44130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "천안시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Dongnam-gu",
+        "ITM_ID": "44131",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "동남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Sebuk-gu",
+        "ITM_ID": "44133",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Gongju-si",
+        "ITM_ID": "44150",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "공주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Boryeong-si",
+        "ITM_ID": "44180",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "보령시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Asan-si",
+        "ITM_ID": "44200",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "아산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Seosan-si",
+        "ITM_ID": "44210",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Nonsan-si",
+        "ITM_ID": "44230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "논산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Gyeryong-si",
+        "ITM_ID": "44250",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "계룡시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Dangjin-si",
+        "ITM_ID": "44270",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "당진시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Geumsan-gun",
+        "ITM_ID": "44710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "금산군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Yeongi-gun",
+        "ITM_ID": "44730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "연기군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Buyeo-gun",
+        "ITM_ID": "44760",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "부여군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Seocheon-gun",
+        "ITM_ID": "44770",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Cheongyang-gun",
+        "ITM_ID": "44790",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "청양군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Hongseong-gun",
+        "ITM_ID": "44800",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "홍성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Yesan-gun",
+        "ITM_ID": "44810",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "예산군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Taean-gun",
+        "ITM_ID": "44825",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "태안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "44",
+        "ITM_NM_ENG": "Dangjin-gun",
+        "ITM_ID": "44830",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "당진군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Jeollabuk-do",
+        "ITM_ID": "52",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "전북특별자치도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Jeonju-si",
+        "ITM_ID": "52110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "전주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Wansan-gu",
+        "ITM_ID": "52111",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "완산구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Deokjin-gu",
+        "ITM_ID": "52113",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "덕진구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Jeonju-si hyoja branch office",
+        "ITM_ID": "52118",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "전주시효자출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Gunsan-si",
+        "ITM_ID": "52130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "군산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Iksan-si",
+        "ITM_ID": "52140",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "익산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Iksan-si hamyeol branch office",
+        "ITM_ID": "52145",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "익산시함열출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Jeongeup-si",
+        "ITM_ID": "52180",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "정읍시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Namwon-si",
+        "ITM_ID": "52190",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남원시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Gimje-si",
+        "ITM_ID": "52210",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "김제시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Wanju-gun",
+        "ITM_ID": "52710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "완주군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Jinan-gun",
+        "ITM_ID": "52720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "진안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Muju-gun",
+        "ITM_ID": "52730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "무주군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Jangsu-gun",
+        "ITM_ID": "52740",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "장수군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Imsil-gun",
+        "ITM_ID": "52750",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "임실군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Sunchang-gun",
+        "ITM_ID": "52770",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "순창군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Gochang-gun",
+        "ITM_ID": "52790",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "고창군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "52",
+        "ITM_NM_ENG": "Buan-gun",
+        "ITM_ID": "52800",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "부안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Jeollanam-do",
+        "ITM_ID": "46",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "전라남도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Mokpo-si",
+        "ITM_ID": "46110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "목포시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Yeosu-si",
+        "ITM_ID": "46130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "여수시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Suncheon-si",
+        "ITM_ID": "46150",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "순천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Naju-si",
+        "ITM_ID": "46170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "나주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Gwangyang-si",
+        "ITM_ID": "46230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "광양시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Damyang-gun",
+        "ITM_ID": "46710",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "담양군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Gokseong-gun",
+        "ITM_ID": "46720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "곡성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Gurye-gun",
+        "ITM_ID": "46730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "구례군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Goheung-gun",
+        "ITM_ID": "46770",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "고흥군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Boseong-gun",
+        "ITM_ID": "46780",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "보성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Hwasun-gun",
+        "ITM_ID": "46790",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "화순군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Jangheung-gun",
+        "ITM_ID": "46800",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "장흥군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Gangjin-gun",
+        "ITM_ID": "46810",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "강진군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Haenam-gun",
+        "ITM_ID": "46820",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "해남군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Yeongam-gun",
+        "ITM_ID": "46830",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영암군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Muan-gun",
+        "ITM_ID": "46840",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "무안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Hampyeong-gun",
+        "ITM_ID": "46860",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "함평군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Yeonggwang-gun",
+        "ITM_ID": "46870",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영광군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Jangseong-gun",
+        "ITM_ID": "46880",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "장성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Wando-gun",
+        "ITM_ID": "46890",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "완도군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Jindo-gun",
+        "ITM_ID": "46900",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "진도군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "46",
+        "ITM_NM_ENG": "Sinan-gun",
+        "ITM_ID": "46910",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "신안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Gyeongsangbuk-do",
+        "ITM_ID": "47",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "경상북도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Pohang-si",
+        "ITM_ID": "47110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "포항시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Nam-gu",
+        "ITM_ID": "47111",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Buk-gu",
+        "ITM_ID": "47113",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "북구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Gyeongju-si",
+        "ITM_ID": "47130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "경주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Gimcheon-si",
+        "ITM_ID": "47150",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "김천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Andong-si",
+        "ITM_ID": "47170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "안동시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Gumi-si",
+        "ITM_ID": "47190",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "구미시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Yeongju-si",
+        "ITM_ID": "47210",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Yeongcheon-si",
+        "ITM_ID": "47230",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Sangju-si",
+        "ITM_ID": "47250",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "상주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Mungyeong-si",
+        "ITM_ID": "47280",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "문경시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Gyeongsan-si",
+        "ITM_ID": "47290",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "경산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Gunwi-gun",
+        "ITM_ID": "47720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "군위군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Uiseong-gun",
+        "ITM_ID": "47730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "의성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Cheongsong-gun",
+        "ITM_ID": "47750",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "청송군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Yeongyang-gun",
+        "ITM_ID": "47760",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영양군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Yeongdeok-gun",
+        "ITM_ID": "47770",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "영덕군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Cheongdo-gun",
+        "ITM_ID": "47820",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "청도군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Goryeong-gun",
+        "ITM_ID": "47830",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "고령군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Seongju-gun",
+        "ITM_ID": "47840",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "성주군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Chilgok-gun",
+        "ITM_ID": "47850",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "칠곡군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Yecheon-gun",
+        "ITM_ID": "47900",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "예천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Bonghwa-gun",
+        "ITM_ID": "47920",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "봉화군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Uljin-gun",
+        "ITM_ID": "47930",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "울진군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "47",
+        "ITM_NM_ENG": "Ulleung-gun",
+        "ITM_ID": "47940",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "울릉군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Gyeongsangnam-do",
+        "ITM_ID": "48",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "경상남도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Changwon-si",
+        "ITM_ID": "48110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "창원시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Changwon-si",
+        "ITM_ID": "48120",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "창원시(통합)",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Uichang-gu",
+        "ITM_ID": "48121",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "의창구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Seongsan-gu",
+        "ITM_ID": "48123",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "성산구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Masanhappo-gu",
+        "ITM_ID": "48125",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "마산합포구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Masanhoewon-gu",
+        "ITM_ID": "48127",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "마산회원구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Jinhae-gu",
+        "ITM_ID": "48129",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "진해구",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Masan-si",
+        "ITM_ID": "48160",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "마산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Jinju-si",
+        "ITM_ID": "48170",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "진주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Jinhae-si",
+        "ITM_ID": "48190",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "진해시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Tongyeong-si",
+        "ITM_ID": "48220",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "통영시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Sacheon-si",
+        "ITM_ID": "48240",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "사천시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Sacheon namyang branch office ",
+        "ITM_ID": "48245",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "사천남양출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Gimhae-si",
+        "ITM_ID": "48250",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "김해시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Jangyu branch office",
+        "ITM_ID": "48252",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "장유출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Miryang-si",
+        "ITM_ID": "48270",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "밀양시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Geoje-si",
+        "ITM_ID": "48310",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "거제시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Yangsan-si",
+        "ITM_ID": "48330",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "양산시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Yangsan-si ungsang branch office",
+        "ITM_ID": "48332",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "양산시웅상출장소",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Uiryeong-gun",
+        "ITM_ID": "48720",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "의령군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Haman-gun",
+        "ITM_ID": "48730",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "함안군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Changnyeong-gun",
+        "ITM_ID": "48740",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "창녕군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Goseong-gun",
+        "ITM_ID": "48820",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "고성군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Namhae-gun",
+        "ITM_ID": "48840",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "남해군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Hadong-gun",
+        "ITM_ID": "48850",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "하동군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Sancheong-gun",
+        "ITM_ID": "48860",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "산청군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Hamyang-gun",
+        "ITM_ID": "48870",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "함양군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Geochang-gun",
+        "ITM_ID": "48880",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "거창군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "48",
+        "ITM_NM_ENG": "Hapcheon-gun",
+        "ITM_ID": "48890",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "합천군",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "ITM_NM_ENG": "Jeju",
+        "ITM_ID": "50",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "제주특별자치도",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "50",
+        "ITM_NM_ENG": "Jeju-si",
+        "ITM_ID": "50110",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "제주시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "OBJ_NM_ENG": "By Administrative District",
+        "UP_ITM_ID": "50",
+        "ITM_NM_ENG": "Seogwipo-si",
+        "ITM_ID": "50130",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "행정구역(시군구)별",
+        "ITM_NM": "서귀포시",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "1",
+        "OBJ_ID": "A"
+      },
+      {
+        "ITM_ID": "000",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "계",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "0 Years",
+        "ITM_ID": "0401",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "0세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "1 Years",
+        "ITM_ID": "0402",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "1세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "2 Years",
+        "ITM_ID": "0403",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "2세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "3 Years",
+        "ITM_ID": "0404",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "3세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "4 Years",
+        "ITM_ID": "0405",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "4세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "5 Years",
+        "ITM_ID": "0501",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "5세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "6 Years",
+        "ITM_ID": "0502",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "6세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "7 Years",
+        "ITM_ID": "0503",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "7세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "8 Years",
+        "ITM_ID": "0504",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "8세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "9 Years",
+        "ITM_ID": "0505",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "9세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "10 Years",
+        "ITM_ID": "0701",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "10세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "11 Years",
+        "ITM_ID": "0702",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "11세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "12 Years",
+        "ITM_ID": "0703",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "12세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "13 Years",
+        "ITM_ID": "0704",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "13세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "14 Years",
+        "ITM_ID": "0705",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "14세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "15 Years",
+        "ITM_ID": "1001",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "15세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "16 Years",
+        "ITM_ID": "1002",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "16세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "17 Years",
+        "ITM_ID": "1003",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "17세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "18 Years",
+        "ITM_ID": "1004",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "18세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "19 Years",
+        "ITM_ID": "1005",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "19세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "20 Years",
+        "ITM_ID": "1201",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "20세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "21 Years",
+        "ITM_ID": "1202",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "21세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "22 Years",
+        "ITM_ID": "1203",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "22세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "23 Years",
+        "ITM_ID": "1204",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "23세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "24 Years",
+        "ITM_ID": "1205",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "24세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "25 Years",
+        "ITM_ID": "1301",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "25세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "26 Years",
+        "ITM_ID": "1302",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "26세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "27 Years",
+        "ITM_ID": "1303",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "27세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "28 Years",
+        "ITM_ID": "1304",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "28세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "29 Years",
+        "ITM_ID": "1305",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "29세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "30 Years",
+        "ITM_ID": "1501",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "30세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "31 Years",
+        "ITM_ID": "1502",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "31세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "32 Years",
+        "ITM_ID": "1503",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "32세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "33 Years",
+        "ITM_ID": "1504",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "33세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "34 Years",
+        "ITM_ID": "1505",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "34세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "35 Years",
+        "ITM_ID": "1601",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "35세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "36 Years",
+        "ITM_ID": "1602",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "36세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "37 Years",
+        "ITM_ID": "1603",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "37세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "38 Years",
+        "ITM_ID": "1604",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "38세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "39 Years",
+        "ITM_ID": "1605",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "39세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "40 Years",
+        "ITM_ID": "1801",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "40세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "41 Years",
+        "ITM_ID": "1802",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "41세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "42 Years",
+        "ITM_ID": "1803",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "42세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "43 Years",
+        "ITM_ID": "1804",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "43세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "44 Years",
+        "ITM_ID": "1805",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "44세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "45 Years",
+        "ITM_ID": "1901",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "45세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "46 Years",
+        "ITM_ID": "1902",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "46세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "47 Years",
+        "ITM_ID": "1903",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "47세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "48 Years",
+        "ITM_ID": "1904",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "48세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "49 Years",
+        "ITM_ID": "1905",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "49세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "50 Years",
+        "ITM_ID": "2101",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "50세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "51 Years",
+        "ITM_ID": "2102",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "51세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "52 Years",
+        "ITM_ID": "2103",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "52세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "53 Years",
+        "ITM_ID": "2104",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "53세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "54 Years",
+        "ITM_ID": "2105",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "54세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "55 Years",
+        "ITM_ID": "2301",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "55세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "56 Years",
+        "ITM_ID": "2302",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "56세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "57 Years",
+        "ITM_ID": "2303",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "57세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "58 Years",
+        "ITM_ID": "2304",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "58세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "59 Years",
+        "ITM_ID": "2305",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "59세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "60 Years",
+        "ITM_ID": "2601",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "60세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "61 Years",
+        "ITM_ID": "2602",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "61세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "62 Years",
+        "ITM_ID": "2603",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "62세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "63 Years",
+        "ITM_ID": "2604",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "63세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "64 Years",
+        "ITM_ID": "2605",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "64세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "65 Years",
+        "ITM_ID": "2801",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "65세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "66 Years",
+        "ITM_ID": "2802",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "66세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "67 Years",
+        "ITM_ID": "2803",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "67세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "68 Years",
+        "ITM_ID": "2804",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "68세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "69 Years",
+        "ITM_ID": "2805",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "69세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "70 Years",
+        "ITM_ID": "3101",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "70세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "71 Years",
+        "ITM_ID": "3102",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "71세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "72 Years",
+        "ITM_ID": "3103",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "72세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "73 Years",
+        "ITM_ID": "3104",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "73세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "74 Years",
+        "ITM_ID": "3105",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "74세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "75 Years",
+        "ITM_ID": "3301",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "75세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "76 Years",
+        "ITM_ID": "3302",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "76세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "77 Years",
+        "ITM_ID": "3303",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "77세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "78 Years",
+        "ITM_ID": "3304",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "78세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "79 Years",
+        "ITM_ID": "3305",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "79세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "80 Years",
+        "ITM_ID": "3601",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "80세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "81 Years",
+        "ITM_ID": "3602",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "81세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "82 Years",
+        "ITM_ID": "3603",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "82세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "83 Years",
+        "ITM_ID": "3604",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "83세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "84 Years",
+        "ITM_ID": "3605",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "84세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "85 Years",
+        "ITM_ID": "3801",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "85세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "86 Years",
+        "ITM_ID": "3802",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "86세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "87 Years",
+        "ITM_ID": "3803",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "87세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "88 Years",
+        "ITM_ID": "3804",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "88세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "89 Years",
+        "ITM_ID": "3805",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "89세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "90 Years",
+        "ITM_ID": "4101",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "90세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "91 Years",
+        "ITM_ID": "4102",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "91세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "92 Years",
+        "ITM_ID": "4103",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "92세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "93 Years",
+        "ITM_ID": "4104",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "93세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "94 Years",
+        "ITM_ID": "4105",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "94세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "95 Years",
+        "ITM_ID": "4301",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "95세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "96 Years",
+        "ITM_ID": "4302",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "96세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "97 Years",
+        "ITM_ID": "4303",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "97세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "98 Years",
+        "ITM_ID": "4304",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "98세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "99 Years",
+        "ITM_ID": "4305",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "99세",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      },
+      {
+        "ITM_NM_ENG": "100 Years old ＆ over",
+        "ITM_ID": "440",
+        "TBL_ID": "DT_1B04006",
+        "OBJ_NM": "연령별",
+        "ITM_NM": "100세 이상",
+        "ORG_ID": "101",
+        "OBJ_ID_SN": "2",
+        "OBJ_ID": "YRE"
+      }
+    ],
+    "units": [
+      {
+        "UNIT_NM": "명",
+        "UNIT_ID": "14STD04553",
+        "metadataSource": "ITM"
+      },
+      {
+        "UNIT_NM": "명",
+        "UNIT_ID": "14STD04553",
+        "metadataSource": "ITM"
+      },
+      {
+        "UNIT_NM": "명",
+        "UNIT_ID": "14STD04553",
+        "metadataSource": "ITM"
+      }
+    ]
+  },
+  "rows": [
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "계",
+      "DT": "135935",
+      "C2": "000",
+      "C1": "11110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Jongno-gu",
+      "C1_NM": "종로구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "0세",
+      "DT": "451",
+      "C2": "0401",
+      "C1": "11110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Jongno-gu",
+      "C1_NM": "종로구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "0 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "1세",
+      "DT": "440",
+      "C2": "0402",
+      "C1": "11110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Jongno-gu",
+      "C1_NM": "종로구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "1 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "2세",
+      "DT": "413",
+      "C2": "0403",
+      "C1": "11110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Jongno-gu",
+      "C1_NM": "종로구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "2 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "3세",
+      "DT": "423",
+      "C2": "0404",
+      "C1": "11110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Jongno-gu",
+      "C1_NM": "종로구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "3 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "4세",
+      "DT": "467",
+      "C2": "0405",
+      "C1": "11110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Jongno-gu",
+      "C1_NM": "종로구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "4 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "5세",
+      "DT": "458",
+      "C2": "0501",
+      "C1": "11110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Jongno-gu",
+      "C1_NM": "종로구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "5 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "계",
+      "DT": "552357",
+      "C2": "000",
+      "C1": "11680",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Gangnam-gu",
+      "C1_NM": "강남구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "0세",
+      "DT": "2866",
+      "C2": "0401",
+      "C1": "11680",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Gangnam-gu",
+      "C1_NM": "강남구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "0 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "1세",
+      "DT": "2490",
+      "C2": "0402",
+      "C1": "11680",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Gangnam-gu",
+      "C1_NM": "강남구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "1 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "2세",
+      "DT": "2265",
+      "C2": "0403",
+      "C1": "11680",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Gangnam-gu",
+      "C1_NM": "강남구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "2 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "3세",
+      "DT": "2333",
+      "C2": "0404",
+      "C1": "11680",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Gangnam-gu",
+      "C1_NM": "강남구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "3 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "4세",
+      "DT": "2549",
+      "C2": "0405",
+      "C1": "11680",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Gangnam-gu",
+      "C1_NM": "강남구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "4 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "5세",
+      "DT": "2893",
+      "C2": "0501",
+      "C1": "11680",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Gangnam-gu",
+      "C1_NM": "강남구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "5 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "계",
+      "DT": "390738",
+      "C2": "000",
+      "C1": "36",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "0세",
+      "DT": "3115",
+      "C2": "0401",
+      "C1": "36",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "0 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "1세",
+      "DT": "2966",
+      "C2": "0402",
+      "C1": "36",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "1 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "2세",
+      "DT": "2747",
+      "C2": "0403",
+      "C1": "36",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "2 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "3세",
+      "DT": "3094",
+      "C2": "0404",
+      "C1": "36",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "3 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "4세",
+      "DT": "3401",
+      "C2": "0405",
+      "C1": "36",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "4 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "5세",
+      "DT": "3635",
+      "C2": "0501",
+      "C1": "36",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "5 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "계",
+      "DT": "390738",
+      "C2": "000",
+      "C1": "36110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong-si",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "0세",
+      "DT": "3115",
+      "C2": "0401",
+      "C1": "36110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong-si",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "0 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "1세",
+      "DT": "2966",
+      "C2": "0402",
+      "C1": "36110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong-si",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "1 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "2세",
+      "DT": "2747",
+      "C2": "0403",
+      "C1": "36110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong-si",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "2 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "3세",
+      "DT": "3094",
+      "C2": "0404",
+      "C1": "36110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong-si",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "3 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "4세",
+      "DT": "3401",
+      "C2": "0405",
+      "C1": "36110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong-si",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "4 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "5세",
+      "DT": "3635",
+      "C2": "0501",
+      "C1": "36110",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "sejong-si",
+      "C1_NM": "세종특별자치시",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "5 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "계",
+      "DT": "434133",
+      "C2": "000",
+      "C1": "41463",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Giheung-gu",
+      "C1_NM": "기흥구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "0세",
+      "DT": "2375",
+      "C2": "0401",
+      "C1": "41463",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Giheung-gu",
+      "C1_NM": "기흥구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "0 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "1세",
+      "DT": "2321",
+      "C2": "0402",
+      "C1": "41463",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Giheung-gu",
+      "C1_NM": "기흥구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "1 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "2세",
+      "DT": "2159",
+      "C2": "0403",
+      "C1": "41463",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Giheung-gu",
+      "C1_NM": "기흥구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "2 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "3세",
+      "DT": "2140",
+      "C2": "0404",
+      "C1": "41463",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Giheung-gu",
+      "C1_NM": "기흥구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "3 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "4세",
+      "DT": "2308",
+      "C2": "0405",
+      "C1": "41463",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Giheung-gu",
+      "C1_NM": "기흥구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "4 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    },
+    {
+      "C1_OBJ_NM": "행정구역(시군구)별",
+      "C2_NM": "5세",
+      "DT": "2445",
+      "C2": "0501",
+      "C1": "41463",
+      "PRD_SE": "M",
+      "UNIT_NM_ENG": "Person",
+      "ITM_ID": "T2",
+      "TBL_ID": "DT_1B04006",
+      "ITM_NM": "총인구수",
+      "TBL_NM": "행정구역(시군구)별/1세별 주민등록인구",
+      "PRD_DE": "202608",
+      "LST_CHN_DE": "2026-09-02",
+      "C1_NM_ENG": "Giheung-gu",
+      "C1_NM": "기흥구",
+      "UNIT_NM": "명",
+      "ITM_NM_ENG": "Population",
+      "C2_NM_ENG": "5 Years",
+      "ORG_ID": "101",
+      "C1_OBJ_NM_ENG": "By Administrative District",
+      "C2_OBJ_NM": "연령별"
+    }
+  ]
+}

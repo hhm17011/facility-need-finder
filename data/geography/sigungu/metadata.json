@@ -1,0 +1,15 @@
+{
+  "registrySource": "https://www.code.go.kr/etc/codeFullDown.do?codeseId=법정동코드",
+  "retrievedAt": "2026-09-21T04:52:07.240799+00:00",
+  "codeNamespace": "MOIS_LEGAL_SIGUNGU",
+  "registrySha256": "44b96f4a86ad102057463a05aae8842f1d706d3e9e69d2dfc409023bf75ca56b",
+  "boundarySource": "https://github.com/vuski/admdongkor",
+  "boundaryCommit": "dd1881663fcabc69b81393604e91ebf3a4202e9a",
+  "boundaryDate": "2026-07-01",
+  "boundarySourceSha256": "c01ef44a0eb00978662ba7a6240ccb1da287fb52abd85104a1758969d391132f",
+  "boundaryOutputSha256": "daf44fbb18ff74471ad40bb3a13544b791ac700db4f14fc58631dd2ed4f32e31",
+  "processing": "Dissolve source sgg groups; topology-preserving simplify 0.0007 degrees for display. No population interpolation.",
+  "boundaryCount": 256,
+  "activeSigungu": 269,
+  "analysisUnits": 256
+}

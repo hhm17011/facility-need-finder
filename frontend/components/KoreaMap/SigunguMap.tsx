@@ -1,0 +1,21 @@
+import {useEffect,useMemo,useState} from 'react';
+import type {RegionEvidenceProfile} from '../../services/geography/types';
+import type {BoundaryCollection} from '../../services/geography/boundaries/types';
+import {projectSidoBoundaries} from '../../services/geography/boundaries/koreaSido';
+import {parseSigunguBoundaries,sigunguLayerValue,sigunguLayerLabels,type SigunguLayer} from '../../services/geography/boundaries/sigungu';
+export interface SigunguMapProps {profiles:RegionEvidenceProfile[];layer:SigunguLayer;selectedCode:string;onSelect:(code:string)=>void;emphasizedCodes?:string[]}
+const dataUrl=new URL('../../../data/geography/sigungu/korea_sigungu.geojson',import.meta.url).href;
+const unit=(layer:SigunguLayer)=>layer.includes('RATE')?'%':layer.includes('SHARE')?'비율':layer.includes('FACILIT')?'개소':'명';
+export function SigunguMap({profiles,layer,selectedCode,onSelect,emphasizedCodes=[]}:SigunguMapProps){
+ const [data,setData]=useState<BoundaryCollection|null>(null),[error,setError]=useState(''),[hovered,setHovered]=useState('');
+ useEffect(()=>{const abort=new AbortController();fetch(dataUrl,{signal:abort.signal}).then(r=>{if(!r.ok)throw new Error();return r.json();}).then(parseSigunguBoundaries).then(setData).catch(()=>{if(!abort.signal.aborted)setError('실제 시군구 경계를 불러오지 못했습니다.');});return()=>abort.abort();},[]);
+ const shapes=useMemo(()=>data?projectSidoBoundaries(data).features:[],[data]);
+ const values=profiles.map(p=>sigunguLayerValue(p,layer)).filter((n):n is number=>n!==null&&Number.isFinite(n)),min=values.length?Math.min(...values):0,max=values.length?Math.max(...values):0,mid=(min+max)/2;
+ const hoverShape=shapes.find(row=>row.feature.properties.shapeISO===hovered),hoverProfile=profiles.find(p=>p.region.regionCode===hovered),hoverValue=sigunguLayerValue(hoverProfile,layer);
+ return <section className="panel map-panel administrative-map sigungu-map"><div className="map-heading"><div><span className="section-kicker">MAP METRIC</span><h3>시군구 {sigunguLayerLabels[layer]}</h3></div><strong>LIVE DATA</strong></div><p>색 농도는 {sigunguLayerLabels[layer]} 규모만 나타냅니다. 시설 필요도나 추천 점수가 아닙니다.</p>
+ {error?<p role="alert">{error}</p>:!data?<p>실제 경계 로딩 중…</p>:<div className="sigungu-map-stage"><svg viewBox="0 0 600 610" aria-label={'실제 시군구 경계 · '+sigunguLayerLabels[layer]}>
+  {shapes.map(({feature,path})=>{const code=feature.properties.shapeISO,profile=profiles.find(p=>p.region.regionCode===code),value=sigunguLayerValue(profile,layer),finite=value!==null&&Number.isFinite(value),emphasis=emphasizedCodes.indexOf(code);return <path key={code} data-sigungu-code={code} data-value={finite?value:'NO DATA'} d={path} role="button" tabIndex={0} aria-pressed={selectedCode===code} aria-label={feature.properties.shapeName+', '+(finite?sigunguLayerLabels[layer]+' '+value:'자료 없음')} className={'administrative-region '+(selectedCode===code?'selected ':'')+(emphasis===0?'top-region':emphasis>0?'top-region-secondary':'')} style={{fill:finite?emphasis===0?'#1f503d':emphasis>0?'#70957e':emphasizedCodes.length?'#dce7db':'hsl(155 30% '+(max===min?55:83-(value-min)/(max-min)*48)+'%)':'#e3e9de'}} onMouseEnter={()=>setHovered(code)} onMouseLeave={()=>setHovered('')} onFocus={()=>setHovered(code)} onBlur={()=>setHovered('')} onClick={()=>onSelect(code)} onKeyDown={e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();onSelect(code);}}}><title>{feature.properties.shapeName} · {finite?sigunguLayerLabels[layer]+' '+value?.toLocaleString('ko-KR')+unit(layer):'자료 없음'}</title></path>;})}
+ </svg>{hoverShape&&<div className="sigungu-map-tooltip" role="tooltip"><strong>{hoverShape.feature.properties.shapeName}</strong>{hoverValue!==null?<><span>{sigunguLayerLabels[layer]}</span><b>{hoverValue.toLocaleString('ko-KR')}{unit(layer)}</b></>:<><span>현재 데이터셋</span><b>자료 없음</b></>}</div>}</div>}
+ <div className="map-legend" aria-label={sigunguLayerLabels[layer]+' 범례'}><span>낮음<br/><b>{values.length?min.toLocaleString('ko-KR'):'자료 없음'}</b></span><i/><span>중간<br/><b>{values.length?mid.toLocaleString('ko-KR',{maximumFractionDigits:0}):'자료 없음'}</b></span><i/><span>높음<br/><b>{values.length?max.toLocaleString('ko-KR'):'자료 없음'}</b></span><em>회색 · 자료 없음</em></div>
+ <small>경계 2026-07-01 · 통계청 <a href="https://sgis.kostat.go.kr" target="_blank" rel="noopener noreferrer">SGIS</a> 원자료. 시도 합계나 보간값을 사용하지 않습니다.</small></section>;
+}
