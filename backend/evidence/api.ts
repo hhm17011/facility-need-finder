@@ -22,6 +22,7 @@ import {createPublicWebProvider} from './providers/publicWebProvider';
 const integer = (value: string | undefined, fallback: number, min: number, max: number) => {
   const parsed = Number(value); return value?.trim() && Number.isFinite(parsed) ? Math.max(min, Math.min(max, Math.floor(parsed))) : fallback;
 };
+const sameOrigin=(req:IncomingMessage)=>{if(!req.headers.origin)return true;try{const origin=new URL(req.headers.origin);return ['http:','https:'].includes(origin.protocol)&&origin.host===req.headers.host;}catch{return false;}};
 export function createEvidenceMiddleware(env: Record<string, string | undefined>) {
   const queriesPerCategory = integer(env.SEARCH_QUERIES_PER_CATEGORY, 2, 1, 3);
   const resultsPerQuery = integer(env.SEARCH_RESULTS_PER_QUERY, 5, 1, 10);
@@ -44,9 +45,8 @@ export function createEvidenceMiddleware(env: Record<string, string | undefined>
       res.end(JSON.stringify(payload));
     };
     // The local API cannot be used cross-origin by an unrelated website.
-    if (!/^(127\.0\.0\.1|localhost)(:\d+)?$/.test(req.headers.host ?? '') ||
-        (req.headers.origin && req.headers.origin !== `http://${req.headers.host}`)) {
-      send(403, { message: '로컬 미리보기에서 요청해 주세요.' }); return;
+    if (!req.headers.host || !sameOrigin(req)) {
+      send(403, { message: '동일 출처 요청만 허용됩니다.' }); return;
     }
     if (req.url === '/api/evidence/config' && req.method === 'GET') {
       send(200, { liveConfigured: liveProviders.some(provider=>provider.configured), liveProvider: liveProviders.filter(provider=>provider.configured).map(provider=>provider.id).join(', '),

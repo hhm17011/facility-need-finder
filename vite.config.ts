@@ -6,10 +6,15 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '');
   const middleware = createEvidenceMiddleware({ ...env, ...process.env });
   const regionalData = createRegionalDataMiddleware({ ...env, ...process.env });
+  const health = (req: import('node:http').IncomingMessage, res: import('node:http').ServerResponse, next: () => void) => {
+    if (req.url !== '/healthz') { next(); return; }
+    res.writeHead(200, { 'Content-Type': 'text/plain', 'Cache-Control': 'no-store' });
+    res.end('ok');
+  };
   const evidenceApi: Plugin = {
     name: 'local-evidence-api',
-    configureServer(server) { server.middlewares.use(middleware); server.middlewares.use(regionalData); },
-    configurePreviewServer(server) { server.middlewares.use(middleware); server.middlewares.use(regionalData); },
+    configureServer(server) { server.middlewares.use(health); server.middlewares.use(middleware); server.middlewares.use(regionalData); },
+    configurePreviewServer(server) { server.middlewares.use(health); server.middlewares.use(middleware); server.middlewares.use(regionalData); },
   };
   return {
     plugins: [evidenceApi],

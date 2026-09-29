@@ -7,6 +7,7 @@ import {KosisClient} from './kosis/kosisClient';
 import {KosisError,noKeyMessage} from './kosis/kosisTypes';
 import {PublicStandardFacilityProvider} from './publicStandard/PublicStandardFacilityProvider';
 import {KosisChildcareSupplyProvider} from './kosis/KosisChildcareSupplyProvider';
+const sameOrigin=(req:IncomingMessage)=>{if(!req.headers.origin)return true;try{const origin=new URL(req.headers.origin);return ['http:','https:'].includes(origin.protocol)&&origin.host===req.headers.host;}catch{return false;}};
 export function createRegionalDataMiddleware(env:Record<string,string|undefined>,provider=new KosisProvider(new KosisClient(env.KOSIS_API_KEY??''))){
  const childcare=new ChildcareFacilityProvider(env.CHILDCARE_API_KEY??'');
  const childcareKosis=new KosisChildcareSupplyProvider(new KosisClient(env.KOSIS_API_KEY??''));
@@ -15,7 +16,7 @@ export function createRegionalDataMiddleware(env:Record<string,string|undefined>
  return async(req:IncomingMessage,res:ServerResponse,next:()=>void)=>{
   if(!req.url?.startsWith('/api/regional-data/')){next();return;}
   const send=(status:number,body:unknown)=>{if(res.destroyed||res.writableEnded)return;res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(JSON.stringify(body));};
-  if(!/^(127\.0\.0\.1|localhost)(:\d+)?$/.test(req.headers.host??'')||(req.headers.origin&&req.headers.origin!==`http://${req.headers.host}`)){send(403,{message:'로컬 미리보기에서 요청해 주세요.'});return;}
+  if(!req.headers.host||!sameOrigin(req)){send(403,{message:'동일 출처 요청만 허용됩니다.'});return;}
   if(req.method!=='GET'){send(405,{message:'GET 요청이 필요합니다.'});return;}
   if(req.url==='/api/regional-data/config'){send(200,{configured:provider.configured,provider:'KOSIS',agePopulation:provider.configured?'CONFIGURED':'MISSING',facilityData:childcare.configured?'CONFIGURED':'MISSING',childcareConfigured:childcare.configured,message:provider.configured?'공식 인구 데이터 조회 가능 · 아직 수신 전':noKeyMessage});return;}
   const url=new URL(req.url,'http://localhost');
